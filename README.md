@@ -1,5 +1,4 @@
 # Sprint_6  
-training 'Automation engineer on python'  
 
 ## Проверяем сервис "Яндекс.Самокат".  
   
